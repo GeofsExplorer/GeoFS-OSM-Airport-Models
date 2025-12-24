@@ -112,34 +112,24 @@ This guide will show you how to import your own custom model, or use OSM data an
 - Scroll down to where it says:
 ## IMPORTANT!!! YOU WILL NEED TO FINE-TUNE THESE VALUES MANY TIMES TO GET THE DESIRED RESULT
   
-	  // --- Placement ---
-	  const lat = latitude;   // Latitude
-	  const lon = longitude;   // Longitude
-	  const alt = altitude;         // Altitude
-	  const heading = heading;      // Rotation
-
-- Replace these with the coordinates, altitude, and rotation.
-- Next scroll down a bit further
-  
-		scale: scale,              // Model Scale
-
-- Replace scale with the amount you want to mutiply
-- Click File > Save
-- Adjust values as needed and remember to save every time you adjust values. Adjust these values until satisifed.
-## Step 7 - Submission
-- Go to https://github.com/greenairways/GeoFS-OSM-Airport-Models/issues and create a new issue
-- Use the format below for your submisssion
-
-  		{
-            name: "EXAMPLE NAME",
-            modelUrl: "ModelUrlHere",
-            lat: Latitude,
-            lon: Longtitude,
-            alt: Altitude,
-            heading: Rotation,
-            scale: Scale
+        {
+            name: "Name",
+            modelUrl: "https://cdn.jsdelivr.net/gh/username/repositoryname@latest/filename",
+            lat: 0,
+            lon: 0,
+            alt: 100,
+            heading: 90,
+            scale: 1,
+            entity: null
         }
 
+- Replace name with the name of the model, airport (including ICAO code), and your nickname for credit
+- Follow the instructions in the script
+- Click File > Save
+- Once it reaches the desired position and scale, copy the output to the clipboard.
+## Step 7 - Submission
+- Go to https://github.com/greenairways/GeoFS-OSM-Airport-Models/issues and create a new issue
+  - Paste the output you copied in the description
   - Add the label "Import Sumbission"
-  - Click create
-  ## If you completed all of these steps correctly, your model should load in properly. If there are any problems or you are stuck, contact thegreen121 on Discord.
+  - Click create issue
+  ## If you completed all of these steps correctly, your model should load in properly and eventually get added. If there are any problems or you are stuck, contact thegreen121 on Discord.
