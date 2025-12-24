@@ -126,6 +126,7 @@ This guide will show you how to import your own custom model, or use OSM data an
 - Replace name with the name of the model, airport (including ICAO code), and your nickname for credit
 - Follow the instructions in the script
 - Click File > Save
+- In game, go to the desired location and drag the mouse to loose-tune and click the bar and use arrow keys to fine-tune
 - Once it reaches the desired position and scale, copy the output to the clipboard.
 ## Step 7 - Submission
 - Go to https://github.com/greenairways/GeoFS-OSM-Airport-Models/issues and create a new issue
