@@ -72,6 +72,132 @@
         "scale": 1.26
     },
     {
+        "name": "EGLL - London Heathrow International Airport (Credit to GeoFS 3D buildings Addon)",
+    	"modelUrl": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/heathrow2.glb",
+    	"lat": 51.467538,
+    	"lon": -0.456035,
+    	"alt": 20.00,
+    	"heading": 90.0,
+    	"scale": 0.63
+    },
+    {
+	"name": "ZSPD Terminal One - Credit to rdpsitw",
+        "modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/zspd-t1@latest/Untitled1.glb",
+        "lat": 31.151350,
+        "lon": 121.797810,
+        "alt": 3.75,
+        "heading": 0.0,
+        "scale": 1.00
+    },
+    {
+   	    "name": "TNCS - Saba Airport - Credit to rdpsitw",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/saba-tncs@latest/saba.glb",
+	    "lat": 17.644620,
+  	    "lon": -63.220790,
+  	    "alt": 28.00,
+ 	    "heading": 0.0,
+  	    "scale": 1.00
+    },
+    {
+    	"name": "VVNB",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/VVNB.gltf",
+    	"lat": 21.216540,
+    	"lon": 105.798852,
+    	"alt": 13.00,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "KLAS",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/KLAS.gltf",
+    	"lat": 36.081477,
+    	"lon": -115.137674,
+    	"alt": 640.00,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "KPHX",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/KPHX/KPHX.gltf",
+    	"lat": 33.435894,
+    	"lon": -111.998054,
+    	"alt": 339.75,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "VIDP - Delhi Airport",
+   	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/VIDP/VIDP.gltf",
+    	"lat": 28.563902,
+    	"lon": 77.117308,
+    	"alt": 230.00,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "KBNA - Nashville",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/KBNA/KBNA.gltf",
+    	"lat": 36.126134,
+    	"lon": -86.671760,
+    	"alt": 166.50,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "KMIA",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/KMIA/KMIA.gltf",
+    	"lat": 25.793377,
+    	"lon": -80.277708,
+    	"alt": 5.00,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "KLAX",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/KLAX/KLAX.gltf",
+    	"lat": 33.943660,
+    	"lon": -118.415069,
+    	"alt": 41.08,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "VOCI - Kochi",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/VOCI/VOCI.gltf",
+    	"lat": 10.157171,
+    	"lon": 76.396281,
+    	"alt": 7.50,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+    	"name": "OMAA - Abu Dhabi - Credit to GeoFS 3D buildings addon",
+    	"modelUrl": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/auh_8.glb",
+    	"lat": 24.432850,
+    	"lon": 54.644100,
+    	"alt": 15.00,
+    	"heading": 20.0,
+    	"scale": 1.20
+    },
+    {
+    	"name": "RCTP - Taipei",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/RCTP/RCTP.gltf",
+    	"lat": 25.078294,
+    	"lon": 121.232067,
+    	"alt": 44.00,
+    	"heading": 90.0,
+    	"scale": 1.00
+    },
+    {
+        "name": "VHHX - Kai Tak - Credit to Mr. AJ from SketchUp 3D Warehouse",
+        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@main/TAKTAKTAKTAK.glb",
+        "lat": 22.3123,
+        "lon": 114.2125,
+        "alt": 100,
+        "heading": 90,
+        "scale": 1
+    },
+    {
         "name": "BUFFER",
         "modelUrl": "https://cdn.jsdelivr.net/gh/BUFFER/BUFFER@latest/BUFFER.gltf",
         "lat": 0,
