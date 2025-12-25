@@ -9,7 +9,16 @@ Additonally there are some custom contributed models that are very detailed
 
 # THIS ADDON WILL AUTO UPDATE
 ## Changelog and list coming soon
-
+<details>
+  <summary>Click to expand this section!</summary>
+  
+  ### Hidden Content Here
+  You can include text, images, code blocks, or lists here.
+  
+  * Item 1
+  * Item 2
+  
+</details>
 ## How to install
 
 Click on the file that says "Userscript.js"
