@@ -2,7 +2,7 @@
 // @name         GeoFS OSM Airport Models (JSON Loader)
 // @namespace    geofs-custom
 // @version      Auto
-// @description  Loads airport building models from an external JSON file with smart distance/altitude unloading
+// @description  Loads airport building models from an external JSON file with smart distance/altitude unloading (minimumPixelSize fixed)
 // @author       thegreen121 (GXRdev)
 // @match        *://www.geo-fs.com/*
 // @grant        none
@@ -16,16 +16,21 @@
     const MAX_ALTITUDE_FT = 18000; // feet
     const MAX_DISTANCE_NM = 30;    // nautical miles
 
+    // Hard safety limits to prevent broken models
+    const MIN_SCALE = 0.05;
+    const MAX_SCALE = 20;
+
     const loadedModels = [];
 
     // Wait for GeoFS + Cesium
     const checkInterval = setInterval(() => {
-        if (typeof geofs !== "undefined" &&
+        if (
+            typeof geofs !== "undefined" &&
             geofs.api &&
             geofs.api.viewer &&
             geofs.aircraft &&
-            typeof Cesium !== "undefined") {
-
+            typeof Cesium !== "undefined"
+        ) {
             clearInterval(checkInterval);
             setTimeout(loadAirportJSON, 1500);
             setInterval(updateModelVisibility, 2000);
@@ -56,6 +61,12 @@
             )
         );
 
+        // Clamp scale to prevent insane models
+        const safeScale = Math.min(
+            Math.max(scale || 1, MIN_SCALE),
+            MAX_SCALE
+        );
+
         const entity = geofs.api.viewer.entities.add({
             name,
             position,
@@ -63,9 +74,10 @@
             show: true,
             model: {
                 uri: modelUrl,
-                scale: scale || 1,
-                minimumPixelSize: 128,
-                maximumScale: 2000
+                scale: safeScale,
+                minimumPixelSize: 0, // 🔥 FIX: disables forced upscaling
+                maximumScale: 500,
+                heightReference: Cesium.HeightReference.NONE
             }
         });
 
@@ -75,7 +87,7 @@
             lon
         });
 
-        console.log(`✅ Loaded model: ${name}`);
+        console.log(`✅ Loaded model: ${name} (scale: ${safeScale})`);
     }
 
     // --- Visibility logic ---
