@@ -8,17 +8,36 @@ These models are very basic but do the job in lack of any building
 Additonally there are some custom contributed models that are very detailed
 
 # THIS ADDON WILL AUTO UPDATE
-## Changelog and list coming soon
+## List of airports
 <details>
-  <summary>Click to expand this section!</summary>
+  <summary>Click to see list</summary>
   
-  ### Hidden Content Here
-  You can include text, images, code blocks, or lists here.
-  
-  * Item 1
-  * Item 2
+  ### v3.0 list
+* KIAD – Washington Dulles International Airport
+* KSEA – Seattle-Tacoma International Airport
+* MPTO – Tocumen International Airport
+* KDEN – Denver International Airport
+* BIKF – Keflavík International Airport
+* OTHH – Hamad International Airport, Doha
+* KDCA – Ronald Reagan Washington National Airport
+* OMDB – Dubai International Airport (Credit to GeoFS 3D Buildings Addon)
+* EGLL – London Heathrow Airport (Credit to GeoFS 3D Buildings Addon)
+* ZSPD – Shanghai Pudong International Airport, Terminal 1 (Credit to rdpsitw)
+* TNCS – Juancho E. Yrausquin Airport (Saba Airport) (Credit to rdpsitw)
+* VVNB – Nội Bài International Airport (Hanoi)
+* KLAS – Harry Reid International Airport (Las Vegas)
+* KPHX – Phoenix Sky Harbor International Airport
+* VIDP – Indira Gandhi International Airport, Delhi
+* KBNA – Nashville International Airport
+* KMIA – Miami International Airport
+* KLAX – Los Angeles International Airport
+* VOCI – Cochin International Airport (Kochi)
+* OMAA – Abu Dhabi International Airport (Credit to GeoFS 3D Buildings Addon)
+* RCTP – Taiwan Taoyuan International Airport (Taipei
+* VHHX - Kai Tak International Airport (Credit to Mr. AJ from SketchUp 3D Warehouse)
   
 </details>
+
 ## How to install
 
 Click on the file that says "Userscript.js"
@@ -27,17 +46,8 @@ Copy the contents of it, and paste it into your script loader.
 
 Additionally you can also paste it into your browser console
 
-## Images
-
-![United 737 taxiing at IAD](https://i.ibb.co/HpM5Cdcv/image.png)
-United 737-700 taxiing at IAD
-
-![American A321ceo leaving the gates at DCA](https://i.ibb.co/jvDdqg1x/Screenshot-2025-11-06-191252.png)
-American A321ceo leaving the gates at DCA
-
-![Emirates A380 taking off from DXB](https://i.ibb.co/xSPbNP9f/image-1.png)
-Emirates A380 taking off from DXB (Credit: Featherway)
-
+## Gallery
+Gallery is stored at https://ibb.co/album/wNL3V8
 ## Contribution
 
 There is a guide for how to contribute to the addon. Open ContributionGuide.md
@@ -46,3 +56,11 @@ There is a guide for how to contribute to the addon. Open ContributionGuide.md
 
 Contact thegreen121 on Discord for communication
 
+## Credits
+- thegreen121 - Main creator, contributor
+- ChatGPT - Parts were coded by AI
+- Google Gemini - Parts were coded by AI
+- [rdpsitw](https://github.com/rdpsitw/) -  Contributor
+- [CoolPilot11](https://github.com/coolpilot11) - Contributor
+- [GeoFS 3D Buildings Addon](https://github.com/CementAndRebar/GeoFS-3D-Buildings) - Resources
+- [Mr. AJ - SketchUp](https://3dwarehouse.sketchup.com/model/8806b163-6421-4c5c-8bc0-b743acc27d7a/Hong-Kong-Kai-Tak-International-Airport?hl=en) - Resources
