@@ -189,13 +189,13 @@
     	"scale": 1.00
     },
     {
-        "name": "VHHX - Kai Tak - Credit to Mr. AJ from SketchUp 3D Warehouse",
-        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@main/TAKTAKTAKTAK.glb",
-        "lat": 22.3123,
-        "lon": 114.2125,
-        "alt": 100,
-        "heading": 90,
-        "scale": 1
+    	"name": "Kai Tak",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@main/TAKTAKTAKTAK.glb",
+    	"lat": 22.317120,
+    	"lon": 114.206680,
+    	"alt": 28.15,
+    	"heading": 133.5,
+    	"scale": 1.00
     },
     {
         "name": "BUFFER",
