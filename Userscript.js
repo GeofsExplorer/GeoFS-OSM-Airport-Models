@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS OSM Airport Models (JSON Loader)
 // @namespace    geofs-custom
-// @version      3.0
+// @version      (Updates automatically)
 // @description  Loads airport building models from an external JSON file
 // @author       thegreen121 (GXRdev)
 // @match        *://www.geo-fs.com/*
