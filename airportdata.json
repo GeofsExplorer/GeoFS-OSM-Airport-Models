@@ -1,12 +1,12 @@
 [
     {
         "name": "KIAD - Washington Dulles International Airport",
-        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/IADFINAL1.gltf",
-        "lat": 38.947265,
-        "lon": -77.448265,
+        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@main/KIAD/dullesfinal.gltf",
+        "lat": 38.947845,
+        "lon": -77.447495,
         "alt": 86.5,
         "heading": 90,
-        "scale": 10
+        "scale": 1
     },
     {
         "name": "KSEA - Seattle-Tacoma International Airport",
