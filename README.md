@@ -40,7 +40,7 @@ Additonally there are some custom contributed models that are very detailed
 
 ## How to install
 
-Click on the file that says "Userscript.js"
+Click on the file that says "MainUserScript.js"
 
 Copy the contents of it, and paste it into your script loader.
 
