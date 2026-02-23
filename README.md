@@ -1,5 +1,5 @@
 # GeoFS-OSM-Airport-Models
-Also visit https://flygxr.com (greenairways) and https://discord.gg/UUuGV6BAsw (Central Development Server)
+https://discord.gg/UUuGV6BAsw (Central Development Server)
 ## What this is
 Adds basic OSM models to airports that are missing buildings
 
@@ -60,7 +60,7 @@ There is a guide for how to contribute to the addon. Open ContributionGuide.md
 
 ## Contact
 
-Contact thegreen121 on Discord for communication
+Contact thegbx121 on Discord for communication
 
 ## Credits
 - thegreen121 - Main creator, contributor
