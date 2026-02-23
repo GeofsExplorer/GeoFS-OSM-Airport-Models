@@ -2,6 +2,10 @@
 ## DO NOT SKIM THROUGH THIS, READ IT CAREFULLY. Guide will take 15 mins - 1 hour
 This guide will show you how to import your own custom model, or use OSM data and import it. There are two ways to add your airport model: OSM and custom.
 
+New Features:
+- Default Building Remover
+  - Removes a default building from the game, so it doesn't overlap a custom building. Contact thegbx121 to use this feature.
+
 # OSM MODEL - if you are using a custom model skip the first 2 steps
 ## Step 1 - Aquire OSM model and data
 - https://www.openstreetmap.org/
