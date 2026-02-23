@@ -109,8 +109,7 @@ New Features:
 
 - Click "Commit changes" to save your changes
 ## Step 6 - Importing and testing
-New Features:
-- Default Building Remover
+- Default Building Remover Info:
   - Removes a default building from the game, so it doesn't overlap a custom building. Contact thegbx121 to use this feature.
 - Go to https://github.com/greenairways/GeoFS-OSM-Airport-Models
 - Open CustomModelLoader.js, and install it
