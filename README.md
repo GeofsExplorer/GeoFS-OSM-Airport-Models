@@ -40,7 +40,7 @@ New Features:
 * RCTP – Taiwan Taoyuan International Airport (Taipei
 * VHHX - Kai Tak International Airport (Credit to Mr. AJ from SketchUp 3D Warehouse)
 * VOBL - Bangalore International Airport
-* ZGSZ - Shenzen International Airport
+* ZGSZ - Shenzhen Bao'an International Airport
   
 </details>
 
