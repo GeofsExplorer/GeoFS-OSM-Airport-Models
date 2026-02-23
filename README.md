@@ -12,7 +12,7 @@ Additonally there are some custom contributed models that are very detailed
 <details>
   <summary>Click to see list</summary>
   
-  ### v3.0 list
+  ### v4.0 list
 * KIAD – Washington Dulles International Airport
 * KSEA – Seattle-Tacoma International Airport
 * MPTO – Tocumen International Airport
@@ -35,6 +35,8 @@ Additonally there are some custom contributed models that are very detailed
 * OMAA – Abu Dhabi International Airport (Credit to GeoFS 3D Buildings Addon)
 * RCTP – Taiwan Taoyuan International Airport (Taipei
 * VHHX - Kai Tak International Airport (Credit to Mr. AJ from SketchUp 3D Warehouse)
+* VOBL - Bangalore International Airport
+* ZGSZ - Shenzen International Airport
   
 </details>
 
@@ -62,5 +64,7 @@ Contact thegreen121 on Discord for communication
 - Google Gemini - Parts were coded by AI
 - [rdpsitw](https://github.com/rdpsitw/) -  Contributor
 - [CoolPilot11](https://github.com/coolpilot11) - Contributor
+- SpeedBird4284 - Contributor
+- [MU2731](https://github.com/Aviation2731) - Contributor
 - [GeoFS 3D Buildings Addon](https://github.com/CementAndRebar/GeoFS-3D-Buildings) - Resources
 - [Mr. AJ - SketchUp](https://3dwarehouse.sketchup.com/model/8806b163-6421-4c5c-8bc0-b743acc27d7a/Hong-Kong-Kai-Tak-International-Airport?hl=en) - Resources
