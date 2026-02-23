@@ -7,6 +7,10 @@ These models are very basic but do the job in lack of any building
 
 Additonally there are some custom contributed models that are very detailed
 
+New Features:
+- Default Building Remover
+  - Removes a default building from the game, so it doesn't overlap a custom building. Contact thegbx121 to use this feature.
+
 # THIS ADDON WILL AUTO UPDATE
 ## List of airports
 <details>
