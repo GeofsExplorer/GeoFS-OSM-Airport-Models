@@ -270,6 +270,15 @@
         "scale": 1.00
     },
 	{
+        "name": "RJTT1",
+        "modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/rjtt-t1@main/RJTTforexport.glb",
+        "lat": 35.54885057551899,
+        "lon": 139.78404224427098,
+        "alt": -2.36,
+        "heading": 0,
+        "scale": 1.00
+    },
+	{
         "name": "BUFFER",
         "modelUrl": "https://cdn.jsdelivr.net/gh/BUFFER/BUFFER@latest/BUFFER.gltf",
         "lat": 0,
