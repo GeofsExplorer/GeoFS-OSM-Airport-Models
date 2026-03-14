@@ -270,12 +270,12 @@
         "scale": 1.00
     },
 	{
-        "name": "RJTT1",
+        "name": "RJTT",
         "modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/rjtt-t1@main/RJTTforexport.glb",
-        "lat": 35.54885057551899,
-        "lon": 139.78404224427098,
+        "lat": 35.548851,
+        "lon": 139.784042,
         "alt": -2.36,
-        "heading": 0,
+        "heading": 0.0,
         "scale": 1.00
     },
 	{
