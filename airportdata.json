@@ -279,6 +279,15 @@
         "scale": 1.00
     },
 	{
+        "name": "RJTT-Tower",
+        "modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/rjtt-t1@main/RJTTtower3.glb",
+        "lat": 35.551730,
+        "lon": 139.783958,
+        "alt": -2.36,
+        "heading": 0.0,
+        "scale": 1.00
+    },
+	{
         "name": "BUFFER",
         "modelUrl": "https://cdn.jsdelivr.net/gh/BUFFER/BUFFER@latest/BUFFER.gltf",
         "lat": 0,
