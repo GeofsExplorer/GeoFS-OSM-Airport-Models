@@ -37,10 +37,11 @@ New Features:
 * KLAX – Los Angeles International Airport
 * VOCI – Cochin International Airport (Kochi)
 * OMAA – Abu Dhabi International Airport (Credit to GeoFS 3D Buildings Addon)
-* RCTP – Taiwan Taoyuan International Airport (Taipei
+* RCTP – Taiwan Taoyuan International Airport (Taipei)
 * VHHX - Kai Tak International Airport (Credit to Mr. AJ from SketchUp 3D Warehouse)
 * VOBL - Bangalore International Airport
 * ZGSZ - Shenzhen Bao'an International Airport
+* RJTT - Tokyo Haneda International Airport
   
 </details>
 
