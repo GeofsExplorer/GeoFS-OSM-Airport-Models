@@ -233,15 +233,15 @@
         "heading": 180.0,
         "scale": 1.00
     },
-    {
-        "name": "VOBL4",
-        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/speedbirdfiles/IndiGo%20MRO%20VOBL.glb",
-        "lat": 13.200831,
-        "lon": 77.686725,
-        "alt": 916.74,
-        "heading": 90.0,
-        "scale": 1.02
-    },
+	{
+    	"name": "VOBL4",
+    	"modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/speedbirdfiles/IndiGo%20MRO%20VOBL.glb",
+    	"lat": 13.200824,
+    	"lon": 77.686726,
+    	"alt": 909.40,
+    	"heading": 90.0,
+    	"scale": 1.02
+	},
     {
         "name": "VOBL5",
         "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/speedbirdfiles/BLUE%20DART%20EXPRESS%20TERMINAL%202%20(TWO).glb",
@@ -270,6 +270,15 @@
         "scale": 1.00
     },
 	{
+	    "name": "VOBL8",
+	    "modelUrl": "https://cdn.jsdelivr.net/gh/SpeedBird4284/GeoFS-3D-buildings@main/BIAL Arch + Plane spotting TWR.glb",
+	    "lat": 13.210457,
+	    "lon": 77.719766,
+	    "alt": 895.60,
+	    "heading": 115.5,
+	    "scale": 1.00
+	},
+	{
         "name": "RJTT",
         "modelUrl": "https://cdn.jsdelivr.net/gh/rdpsitw/rjtt-t1@main/RJTTforexport.glb",
         "lat": 35.548851,
@@ -284,6 +293,15 @@
         "lat": 35.551730,
         "lon": 139.783958,
         "alt": -2.36,
+        "heading": 0.0,
+        "scale": 1.00
+    },
+	{
+        "name": "EGLL-Tower",
+        "modelUrl": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/speedbirdfiles/lhratc.glb",
+    	"lat": 51.471807,
+    	"lon": -0.465481,
+    	"alt": 24.97,
         "heading": 0.0,
         "scale": 1.00
     },
